@@ -8,7 +8,7 @@ int main()
 
     for (int i = 0; i<10; i++){
 
-        cout << "Hello, World! " << i << endl;
+        cout << "Hello, World! This is loop number " << i << endl;
    }
     return 0;
 }
