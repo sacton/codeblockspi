@@ -14,3 +14,6 @@ git commit -m \""$comment\""
 
 #update remote branch with commit
 git push origin HEAD:main
+
+expect "Username for"
+send "sacton\r"
